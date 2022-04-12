@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "신민서 "
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "는 바보"
-description              : "뻥이고 사랑해 ㅋ"
+name                     : "."
+description              : "."
 url                      : "https://somehowranker.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "는 바보"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "뻥이고 사랑해 "
   location         : "Somewhere"
   email            :
   links:
