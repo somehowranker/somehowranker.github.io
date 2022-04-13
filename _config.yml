@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "신민서 "
+title                    : "SOMEHOWRANKER"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "."
@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "는 바보"
+  name             : "어쩌다보니랭커의 깃허브"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "뻥이고 사랑해 "
+  bio              : "상해사는 고등학생 코딩도전기"
   location         : "Somewhere"
   email            :
   links:
