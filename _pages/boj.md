@@ -3,9 +3,7 @@ permalink: /boj/
 title: "백준"
 toc: true
 toc_sticky: true
-toc_label: "MYSELF"
+toc_label: "문제"
 ---
 
-![icon](/assets/logo.ico/apple-icon-120x120.png)
-
-원하는 자기소개 상세 내용
+백준 문제풀이

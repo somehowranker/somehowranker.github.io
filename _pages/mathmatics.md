@@ -3,9 +3,7 @@ permalink: /mathmatics/
 title: "수학"
 toc: true
 toc_sticky: true
-toc_label: "MYSELF"
+toc_label: "알고리즘"
 ---
 
-![icon](/assets/logo.ico/apple-icon-120x120.png)
-
-원하는 자기소개 상세 내용
+이론 풀이
