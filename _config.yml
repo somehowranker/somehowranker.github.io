@@ -20,7 +20,7 @@ title                    : "상해에서 배우는 코딩"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "김준연(KIM JUNYEON)"
-description              : "컴퓨터 공학 지망생"
+description              : "컴퓨터공학 지망생"
 url                      : "https://somehowranker.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
