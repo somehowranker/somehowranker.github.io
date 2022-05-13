@@ -3,7 +3,7 @@ main:
   #- title: "Quick-Start Guide"
   # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "백준"
-     url: /boj/
+     url: "/boj/"
    - title: "딥러닝"
      url: /deep_learning/
    - title: "수학"
