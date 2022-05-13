@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /boj/
 title: "About"
 toc: true
 toc_sticky: true
