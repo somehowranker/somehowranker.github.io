@@ -1,6 +1,6 @@
 ---
 permalink: /mathmatics/
-title: "About"
+title: "수학"
 toc: true
 toc_sticky: true
 toc_label: "MYSELF"

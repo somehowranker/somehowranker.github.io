@@ -1,6 +1,6 @@
 ---
 permalink: /boj/
-title: "About"
+title: "백준"
 toc: true
 toc_sticky: true
 toc_label: "MYSELF"

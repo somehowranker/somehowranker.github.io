@@ -1,6 +1,6 @@
 ---
 permalink: /deep-learning/
-title: "About"
+title: "딥러닝"
 toc: true
 toc_sticky: true
 toc_label: "MYSELF"
