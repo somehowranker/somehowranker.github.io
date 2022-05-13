@@ -5,6 +5,6 @@ main:
   - title: "백준"
     url: /boj/
   - title: "딥러닝"
-    url: "/deep-learning/"
+    url: /deep-learning/
   - title: "수학"
     url: /mathmatics/
