@@ -1,5 +1,5 @@
 ---
-permalink: /deep-learning/
+permalink: /boj/
 title: "About"
 toc: true
 toc_sticky: true
