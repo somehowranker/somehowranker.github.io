@@ -1,11 +1,10 @@
 # main links
 main:
-  #- title: "Quick-Start Guide"
-  # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "백준"
-     url: "/boj/"
-   - title: "딥러닝"
-     url: /deep_learning/
-   - title: "수학"
-     url: /mathmatics/
-   
+  #- title: "Home"
+  #  url: "/"
+  - title: "Introduce"
+    url: /about/
+  - title: "Category"
+    url: "/categories/"
+  - title: "Tags"
+    url: /tags/
