@@ -108,9 +108,9 @@ author:
   location         : "Republic of Korea"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto: bobkim572@naver.com
+    - #label: "Email"
+      #icon: "fas fa-fw fa-envelope-square"
+      #url: mailto: bobkim572@naver.com
     - #label: "Website"
       #icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
