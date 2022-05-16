@@ -8,7 +8,7 @@ tags:
   - readability
   - standard
 ---
-'''
+```
 a = int(input())
 A = a
 count = 0
@@ -21,4 +21,4 @@ while True:
     if A == a :
         break
 print(count)
-'''
+```
